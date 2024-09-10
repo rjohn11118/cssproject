@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: #00FF00;
+}
+
+h3 {
+    color: #00F;
+}
+
+h4 {
+    color: #FF000080;
+}
+
+h5 {
+    color: #F00F;
+}
+
+h6 {
+    color: rgb(0, 0, 255);
+}
+
+p {
+    color: rgba(255, 0, 0, 0.5);
+}
